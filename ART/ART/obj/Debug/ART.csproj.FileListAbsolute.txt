@@ -1,0 +1,11 @@
+D:\VisualStudioProject\ART\ART\bin\Debug\ART.exe.config
+D:\VisualStudioProject\ART\ART\bin\Debug\ART.exe
+D:\VisualStudioProject\ART\ART\bin\Debug\ART.pdb
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.csproj.AssemblyReference.cache
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.Form1.resources
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.Properties.Resources.resources
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.csproj.GenerateResource.cache
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.exe
+D:\VisualStudioProject\ART\ART\obj\Debug\ART.pdb
